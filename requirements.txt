@@ -1,0 +1,17 @@
+certifi
+python-dotenv
+torch
+streamlit
+st-annotated-text
+numpy
+whisper_timestamped
+whisperx
+onnxruntime
+torchaudio
+transformers
+auditok
+flask
+assemblyai
+langchain
+openai
+langchain-community
